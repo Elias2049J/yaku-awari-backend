@@ -1,0 +1,12 @@
+[
+  { "id": 1, "x": 123.45, "y": 456.78, "z": 12.34, "intensidad": 120, "clasificacion": "Terreno" },
+  { "id": 2, "x": 124.12, "y": 457.01, "z": 13.02, "intensidad": 98, "clasificacion": "Vegetación" },
+  { "id": 3, "x": 125.00, "y": 458.10, "z": 11.90, "intensidad": 110, "clasificacion": "Edificio" },
+  { "id": 4, "x": 126.22, "y": 459.50, "z": 14.00, "intensidad": 130, "clasificacion": "Terreno" },
+  { "id": 5, "x": 127.10, "y": 460.00, "z": 12.80, "intensidad": 105, "clasificacion": "Vegetación" },
+  { "id": 6, "x": 128.05, "y": 461.20, "z": 13.50, "intensidad": 115, "clasificacion": "Terreno" },
+  { "id": 7, "x": 129.30, "y": 462.15, "z": 15.10, "intensidad": 125, "clasificacion": "Edificio" },
+  { "id": 8, "x": 130.00, "y": 463.00, "z": 14.20, "intensidad": 100, "clasificacion": "Vegetación" },
+  { "id": 9, "x": 131.12, "y": 464.10, "z": 13.80, "intensidad": 108, "clasificacion": "Terreno" },
+  { "id": 10, "x": 132.00, "y": 465.00, "z": 12.60, "intensidad": 112, "clasificacion": "Edificio" }
+]
